@@ -24,19 +24,17 @@ weight = 5
   year = 2014-18
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Deep Learning Specialization"
+  institution = "Deeplearning.ai, Coursera"
+  year = 2018
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Deepanshu Setia is an ML Engineer at Samsung R&D, Bangalore(India). A creative problem solver with a passion for mastering programming & machine learning, who wants to be part of a team that builds the technology of the future. Experience of doing internship with Samsung R&D and IIT Bombay,India. Trained in the fields of computer science and mathematics. A life-long learner and loves to pick new technologies to do something innovative. Becoming the best  top skilled Data scientist across the globe is the dream for his rest of the learning journey.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My official projects in Samsung concerns the domains of Fab and Inspection, where we apply AI knowledge combined with Domain knowledge to predict yields, computer vision based defect detection, Time series analysis of smart equipment sensor data, NLP based solutions for the Fab Engineers etc.
+
+
