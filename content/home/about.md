@@ -11,8 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Deep Learning",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "NLP",
+    "Time-Series",
+    "Reinforcement Learning"
   ]
 
 # List your qualifications (such as academic degrees).
