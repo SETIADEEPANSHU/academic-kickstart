@@ -19,9 +19,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.Tech in Information Technology"
+  institution = "Dr. B.R. Ambedkar National Institute of Technology"
+  year = 2014-18
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
